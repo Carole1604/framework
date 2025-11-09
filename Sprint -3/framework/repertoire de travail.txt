@@ -1,0 +1,41 @@
+repertoire de travail 2
+-code framwork
+	-front servlet
+		-/*
+		- servie (paramettre requete)
+		- doGet -> miantso service
+	-generena jar
+-code itestena framwork
+	-apesainy ilay jar anaovan test
+	-declaration FrontServlet  sy url pattern /* ao @xml
+tanjona
+	tsy manoratra servlet tsony fa class no executeny, oh 
+requis;
+	-spring mvc
+	-reflect
+	-anotation anaty class
+-sprint 1(ashoy by url nomkeo)
+	-azahona url tapeny utilisateur
+	-ninin url ao dia miditra  @ na methode precis ao @code
+	
+
+	
+	
+	
+	
+	
+config
+	-
+convention
+	-contrainte oh anaran classe  = anaran table ou att = colonne
+	
+
+
+anotion
+-methode
+-attribut
+-classe
+
+Exemple d'exercice
+aona ny recuperan hoe misy anty anotation ity anaty classe
+cree trois classe anotion anotation
